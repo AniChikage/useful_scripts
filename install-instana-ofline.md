@@ -19,7 +19,6 @@ EOF
 yum install --downloadonly --downloaddir=./ instana-console
 
 rpm -ivU *.rpm
-
 instana images export -k [Key]
 ```                                              
                                                  
