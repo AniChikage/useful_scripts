@@ -30,7 +30,7 @@ cd ~/.oh-my-zsh
 git remote set-url origin https://gitee.com/mirrors/oh-my-zsh.git
 git pull
 
-dnf isntall -y util-linux-user
+dnf install -y util-linux-user
 chsh -s /bin/zsh
 
 git clone https://github.com/zsh-users/zsh-autosuggestions ~/.oh-my-zsh/custom/plugins/zsh-autosuggestions
