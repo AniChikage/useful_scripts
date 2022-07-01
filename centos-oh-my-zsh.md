@@ -38,7 +38,7 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.oh-my-zsh/
 
 vim ~/.zshrc
 
-ZSH_THEME="ys"
+ZSH_THEME="agnoster"
 plugins=(git
 sublime
 z
